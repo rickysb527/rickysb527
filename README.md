@@ -82,3 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysb527&layout=compact&hide_border=true&title_color=6B4FBB&text_color=808080&bg_color=00000000" alt="Top languages" />
 </p>
 -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rickysb527&label=Profile%20views&color=6B4FBB&style=flat" alt="Profile views" />
+</p>
