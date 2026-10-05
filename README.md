@@ -2,7 +2,7 @@
   Riki Goto (rickysb527) — GitHub Profile README
   リポジトリ名は username と同じ rickysb527/rickysb527 にすると
   プロフィールトップに表示されます。
-  紫 (#6B4FBB) はヘッダーのタイピング文字だけに使用。
+  紫 (#6B4FBB) はヘッダーのタイピング文字と GitHub Stats に使用。
   技術スタックのバッジは各サービスの公式ブランドカラー。
 -->
 
@@ -74,10 +74,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickysb527&show_icons=true&hide_border=true&title_color=6E7681&icon_color=6E7681&text_color=808080&bg_color=00000000" alt="Riki's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickysb527&show_icons=true&hide_border=true&title_color=6B4FBB&icon_color=6B4FBB&text_color=808080&bg_color=00000000" alt="Riki's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysb527&layout=compact&hide_border=true&title_color=6E7681&text_color=808080&bg_color=00000000" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysb527&layout=compact&hide_border=true&title_color=6B4FBB&text_color=808080&bg_color=00000000" alt="Top languages" />
 </p>
 
 <p align="center">
