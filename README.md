@@ -71,17 +71,14 @@
 
 <br />
 
-<!--
-  📊 GitHub Stats カード — 後で有効化する場合は下のコメントを外してください。
-  紫テーマ (title_color / icon_color) と username は設定済みです。
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickysb527&show_icons=true&hide_border=true&title_color=6B4FBB&icon_color=6B4FBB&text_color=808080&bg_color=00000000" alt="Riki's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickysb527&show_icons=true&hide_border=true&title_color=6E7681&icon_color=6E7681&text_color=808080&bg_color=00000000" alt="Riki's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysb527&layout=compact&hide_border=true&title_color=6B4FBB&text_color=808080&bg_color=00000000" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysb527&layout=compact&hide_border=true&title_color=6E7681&text_color=808080&bg_color=00000000" alt="Top languages" />
 </p>
--->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rickysb527&label=Profile%20views&color=6B4FBB&style=flat" alt="Profile views" />
